@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46515a11-46f0-434e-a219-006e18ee6017" name="Default Changelist" comment="" />
+    <list default="true" id="46515a11-46f0-434e-a219-006e18ee6017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a0PSTg0afPmPZGOlTZNeWfxCQZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +31,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\selenium\CircleCI\CircleCIDemo2\.pytest_cache" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="test_firstcirclecifile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -85,5 +95,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1366" height="185" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585869724859" />
+    <state x="393" y="159" key="git4idea.merge.GitPullDialog" timestamp="1585870880886">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="393" y="159" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1585870880886" />
   </component>
 </project>
